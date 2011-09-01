@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=_Name
+comment0.target=Player(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player\r\n
+comment1.params=type
+comment1.target=void\ levelPointSpend(int)
+comment1.text=\r\n\ Spend\ level\ points\r\n\ You\ can\ spend\ them\ on\ 3\ types\ of\ advantages.\r\n\ Type\ 0\ to\ gain\ extra\ HP\r\n\ Type\ 1\ to\ gain\ extra\ attack\ modifier,\ which\ enlarges\ your\ attack\r\n\ Type\ 2\ to\ enlarge\ you\ chances\ of\ getting\ critical\ hit\r\n
+comment2.params=
+comment2.target=void\ printSkillIncrease()
+comment2.text=\r\n\ Method\ called\ when\ a\ skill\ is\ increased\r\n
+comment3.params=
+comment3.target=void\ encMonster()
+comment3.text=\r\n\ Encounter\ a\ monster\r\n
+comment4.params=
+comment4.target=void\ attMonster()
+comment4.text=\r\n\ Attack\ monster\r\n
+numComments=5
